@@ -7,8 +7,9 @@ BitTorrent Sync：BHS55LP54SO7A434QBB5Z2O6B7A45B2BX
 ShadowsocksR主要分支：[SSR C#](https://github.com/shadowsocksr/shadowsocksr-csharp), [SSR python manyuser](https://github.com/shadowsocksr/shadowsocksr/tree/manyuser), [SSR-libev](https://github.com/shadowsocksr/shadowsocksr-libev)  
 Android APP: [SSR-android](https://github.com/shadowsocksr/shadowsocksr-android/releases)  
 iOS APP： [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118)  
-MAC APP：[ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases)  
-其它不完全支持：[NEKit](https://github.com/zhuhaow/NEKit), [Wingy](https://itunes.apple.com/cn/app/id1178584911), [Potatso](https://itunes.apple.com/us/app/potatso-qiang-da-wang-luo/id1070901416)
+MAC APP：[ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG/releases), [ShadowsocksX-R](https://github.com/yichengchen/ShadowsocksX-R/releases) 
+
+其它不完全支持：[NEKit](https://github.com/zhuhaow/NEKit), [Wingy](https://itunes.apple.com/cn/app/id1178584911), [Potatso](https://itunes.apple.com/us/app/potatso-qiang-da-wang-luo/id1070901416) [PlutoX](https://www.plutox.top/)  
 
 推荐使用ZeroNet地址，或BitTorrent Sync免翻自动更新，最及时自动获取最新版本  
 注意发布压缩包内有一个以sig后缀的签名文件（如果没有签名文件，即文件已经被修改过），**您应该使用GPG进行校验**  
